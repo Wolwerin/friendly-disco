@@ -1,0 +1,2 @@
+# friendly-disco
+мое обучение
